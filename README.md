@@ -1,7 +1,8 @@
 # GBC24
 Modular Shortcut Keyboard
   
-![1]()
+<img width="1920" height="1080" alt="20260315_172310" src="https://github.com/user-attachments/assets/75ac68b8-87aa-4565-b2d3-4ae5b51bb985" />
+
   
 ## GBC24 Build Guide
   
