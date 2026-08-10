@@ -95,9 +95,9 @@ VIAとRemapについては、下記のサイトを参考にしてください。
 
 | 名称 | 数量 | 備考 |
 |------|:----:|------|
-| キースイッチ（Kailh Choc V1/V2系統） | 24個 |  |
-| キーキャップ（Kailh Choc V1/V2系統） | 24個 |  |
-| パームレスト | 1個 | 小型（セパレート型）なものを推奨 |
+| キースイッチ（Kailh Choc V1/V2系統） | 24個 | ※２ |
+| キーキャップ（Kailh Choc V1/V2系統） | 24個 | ※２ |
+| パームレスト | 1個 | 小型（セパレート型）なものを推奨 ※２ |
 
 ### オプション
 
@@ -120,6 +120,36 @@ VIAとRemapについては、下記のサイトを参考にしてください。
 > - [Pro Micro（単体）黒基板/青基板](https://shop.yushakobo.jp/products/pro-micro?variant=42225070768359)
 > - [Pro Micro ATmega32U4-MU 5V/16MHz/USB-C（互換品/青）](https://shop.talpkeyboard.com/products/promicro-atmega32u4mu-5v16mhz-usb-c)
 > - [RP2040 Kee Boar Driver](https://akizukidenshi.com/catalog/g/g117312/)
+
+> **※2 おすすめの部品について**
+>
+> 別途購入が必要な部品について、作者が動作・使用感を確認しているものを紹介します。
+> あくまで一例ですので、対応する規格のものであればお好みの製品をお使いいただけます。
+>
+> **キースイッチ（Kailh Choc V2）**
+>
+> どちらも静音リングを内蔵したロープロファイルスイッチで、打鍵音が控えめです。
+> 5個入りのため、24個必要な場合は5袋（25個）ご購入ください。
+>
+> - [Kailh Deep Sea Silent MINI Islet（サイレントリニア / 45g）](https://shop.talpkeyboard.com/products/kailh-deep-sea-silent-mini-chocv2-islet) …… 引っかかりのない軽い押し心地が好みの方向け
+> - [Kailh Deep Sea Silent MINI Whale（サイレントタクタイル / 45g）](https://shop.talpkeyboard.com/products/kailh-deep-sea-silent-mini-chocv2-whale) …… 押した感触をはっきり感じたい方向け
+>
+> **キーキャップ（Tai-Hao THT / MX軸用）**
+>
+> 18.1mm角のロープロファイルキーキャップです。無刻印で、1個単位から購入できます。
+> レイアウトに合わせて1Uと1.5Uを組み合わせてください。
+>
+> - [THT ロープロファイル キーキャップ 1U（ホワイト）](https://shop.talpkeyboard.com/products/tht-mx-1u-white-bulk)
+> - [THT ロープロファイル キーキャップ 1.5U（ホワイト）](https://shop.talpkeyboard.com/products/tht-mx-1-5u-white)
+>
+> 上記キーキャップはMX軸用のため、MX互換ステムを持つ**Choc V2にのみ対応**します。
+> Choc V1のスイッチを使用する場合は、Choc V1専用のキーキャップをご用意ください。
+>
+> **パームレスト**
+>
+> - [サンワサプライ ハニカムリストレスト Sサイズ（TOK-HONEY1BK）](https://www.sanwa.co.jp/product/syohin?code=TOK-HONEY1BK)
+>
+> W145×D75×H21mmと小型で、GBC24のサイズによく合います。TPE素材のため水洗いが可能です。
 
 ## 組み立て
 
