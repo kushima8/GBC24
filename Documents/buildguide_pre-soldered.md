@@ -35,11 +35,8 @@ GBC24は絵を描く方向けに開発したショートカットキーボード
 
 むいむいさんご本人から、紹介イラストもご提供いただきました。
 
-<!-- 画像パスを差し替えてください。GitHubにアップロードしたURL、
-     またはリポジトリ内の相対パスを指定します。 -->
 ![すこやかむいむいさんによるGBC24紹介イラスト（イラスト：すこやかむいむいさん）](https://github.com/user-attachments/assets/3a695b34-dc03-4c14-abc1-19e77574737c)
 
----
 
 ファームウェアに[qmk_firmware](https://github.com/qmk/qmk_firmware)を採用しています。  
 QMKにGBC24のコードはマージされていませんので、この[ブランチ](https://github.com/kushima8/qmk_firmware/tree/reex)を使用してください。  
