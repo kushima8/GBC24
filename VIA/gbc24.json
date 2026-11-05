@@ -4,7 +4,7 @@
     "productId": "0x3234",
     "matrix": { "rows": 5, "cols": 8 },
     "customKeycodes": [
-        { "name": "REC_RST",    "title": "センサーをリセット",                  "shortName": "REC_RST"  },
+        { "name": "REC_RST",    "title": "センサー設定を初期値に戻す",                  "shortName": "REC_RST"  },
         { "name": "REC_SAVE",   "title": "センサー値をEEPROMに保存",            "shortName": "REC_SAVE" },
         { "name": "CPI_I100",   "title": "CPI +100 (max 3500)",                 "shortName": "CPI+100"  },
         { "name": "CPI_D100",   "title": "CPI -100 (min 100)",                  "shortName": "CPI-100"  },
