@@ -43,6 +43,8 @@ QMKにGBC24のコードはマージされていませんので、この[ブラ�
 動作確認のためのコンパイル済みファームウェアとして、[HEXファイル](https://github.com/kushima8/GBC24/tree/main/HEX)と[UF2ファイル](https://github.com/kushima8/GBC24/tree/main/UF2)を用意しています。  
 
 購入時にマイコン(Pro MicroかKB2040)が付属している場合のみ、あらかじめファームウェアを書き込んであります。  
+ファームウェアの書き込み・更新は、下記をご覧ください。  
+[ファームウェア書き込み（更新）マニュアル](GBC24_ファームウェア書き込みマニュアル.md)  
 他のファームウェアを書き込む場合などは、下記サイトを参考にしてください。  
 [（初心者編）自作キーボードにファームウェアを書き込む](https://salicylic-acid3.hatenablog.com/entry/qmk-toolbox)  
 
