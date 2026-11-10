@@ -84,7 +84,7 @@ VIAとRemapについては、下記のサイトを参考にしてください。
 | コンスルーピンヘッダ（6mm 4PIN） | 2個 |  |
 | Pro Micro | 1個 | ※１ |
 | コンスルーピンヘッダ（2.5mm 12PIN） | 2個 |  |
-| ゴム足 | 4個 |  |
+| ゴム足 | 8個 |  |
 
 ※組み立て済みの場合は、上記部品が組み込まれたものが本体扱いで付属しております。
 
@@ -116,7 +116,7 @@ VIAとRemapについては、下記のサイトを参考にしてください。
 > 動作確認しているPro MicroとKB2040（RP2040 Kee Boar Driver / Adafruit）は以下のとおりです。
 > 下記以外のPro Microを使用する場合は動作しないことがあります。その場合はご自身で調整してください。
 >
-> - [Pro Micro（単体）黒基板/青基板](https://shop.yushakobo.jp/products/pro-micro?variant=42225070768359)
+> - [Pro Micro Type-C版](https://shop.yushakobo.jp/products/3905)
 > - [Pro Micro ATmega32U4-MU 5V/16MHz/USB-C（互換品/青）](https://shop.talpkeyboard.com/products/promicro-atmega32u4mu-5v16mhz-usb-c)
 > - [RP2040 Kee Boar Driver](https://akizukidenshi.com/catalog/g/g117312/)
 
