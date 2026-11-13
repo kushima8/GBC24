@@ -13,7 +13,7 @@ Modular Shortcut Keyboard
   
 ## GBC24 Build Guide
   
-[はんだ付け済み版 ビルドガイド（日本語）](Documents/buildguide_pre-soldered.md)  
+[完成済み版 ビルドガイド（日本語）](Documents/buildguide_pre-soldered.md)  
 [接続・設定マニュアル（日本語）](Documents/GBC24_接続・設定マニュアル.md)  
 [接続・設定マニュアル（トラックボールユニット装着版・日本語）](Documents/GBC24_接続・設定マニュアル（トラックボールユニット装着版）.md)  
 [追加キーコード一覧（日本語）](Documents/addition_keycode.md)  
