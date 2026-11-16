@@ -1,14 +1,17 @@
 # GBC24
 Modular Shortcut Keyboard
   
-<img width="1920" height="1080" alt="20260315_172310" src="https://github.com/user-attachments/assets/75ac68b8-87aa-4565-b2d3-4ae5b51bb985" />
+<img width="1920" height="1080" alt="20260315_172310" src="https://github.com/user-attachments/assets/75ac68b8-87aa-4565-b2d3-4ae5b51bb985" />  
 
+本体の形は、3Dビューアで回したり拡大したりして確認できます。  
+[GBC24 3Dビューア](https://kushima8.github.io/gbc24_3d_viewer.html)
+ 
 ### 開発協力
-
+ 
 本製品の開発にあたり、[すこやかむいむい](https://x.com/sukoyakamuimui)さんにご協力いただきました。ありがとうございます。
-
+ 
 むいむいさんご本人から、紹介イラストもご提供いただきました。
-
+ 
 ![すこやかむいむいさんによるGBC24紹介イラスト（イラスト：すこやかむいむいさん）](https://github.com/user-attachments/assets/3a695b34-dc03-4c14-abc1-19e77574737c)
   
 ## GBC24 Build Guide
@@ -18,6 +21,7 @@ Modular Shortcut Keyboard
 [接続・設定マニュアル（トラックボールユニット装着版・日本語）](Documents/GBC24_接続・設定マニュアル（トラックボールユニット装着版）.md)  
 [追加キーコード一覧（日本語）](Documents/addition_keycode.md)  
 [ファームウェア書き込み（更新）マニュアル（日本語）](Documents/GBC24_ファームウェア書き込みマニュアル.md)
-
+ 
 ![120px-Cc-by-nc-sa_icon svg](https://user-images.githubusercontent.com/58157342/87903527-24883480-ca97-11ea-86a5-e6abcf258247.png)
   
+ 
