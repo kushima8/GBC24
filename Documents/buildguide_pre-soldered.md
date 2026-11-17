@@ -19,7 +19,7 @@
  
 ## はじめに
  
-![GBC24 完成イメージ](https://github.com/user-attachments/assets/1f6925a3-86b1-46c4-8aaf-7d8995f8d64f)
+<img src="../images/gbc24_main.jpg" alt="GBC24 完成イメージ" width="600">
  
 このたびはご購入いただきありがとうございます。  
 本製品は、本体を組み立て済みの状態でお届けする「完成済み版」です。  

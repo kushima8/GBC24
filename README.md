@@ -1,7 +1,13 @@
 # GBC24
 Modular Shortcut Keyboard
   
-<img width="1920" height="1080" alt="20260315_172310" src="https://github.com/user-attachments/assets/75ac68b8-87aa-4565-b2d3-4ae5b51bb985" />  
+<p>
+  <img src="images/gbc24_main.jpg" alt="GBC24 本体。24個のキーと、親指側のジョイスティック、回転ダイヤルが並ぶ" width="58%">
+  <img src="images/gbc24_variation.jpg" alt="白いケースにトラックボールユニットを付けた作例" width="40%">
+</p>
+
+右の写真は作例です（白いケースと別売りの Reex トラックボールユニットを使用）。  
+頒布品は黒いケースで、ジョイスティックが付きます。
 
 本体の形は、3Dビューアで回したり拡大したりして確認できます。  
 [GBC24 3Dビューア](https://kushima8.github.io/gbc24_3d_viewer.html)
