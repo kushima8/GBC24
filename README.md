@@ -6,8 +6,8 @@ Modular Shortcut Keyboard
   <img src="images/gbc24_variation.jpg" alt="白いケースにトラックボールユニットを付けた作例" width="40%">
 </p>
 右の写真は作例です（白いケースと別売りの Reex トラックボールユニットを使用）。<br>
-頒布品は黒いケースで、ジョイスティックが付きます。<br>
-<br>
+頒布品は黒いケースで、ジョイスティックが付きます。
+ 
 本体の形は、3Dビューアで回したり拡大したりして確認できます。<br>
 [GBC24 3Dビューア](https://kushima8.github.io/gbc24_3d_viewer.html)
  
@@ -37,5 +37,6 @@ Modular Shortcut Keyboard
  
 ![120px-Cc-by-nc-sa_icon svg](https://user-images.githubusercontent.com/58157342/87903527-24883480-ca97-11ea-86a5-e6abcf258247.png)
   
+ 
  
  
