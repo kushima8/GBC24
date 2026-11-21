@@ -28,7 +28,7 @@ Modular Shortcut Keyboard
  
 ![すこやかむいむいさんによるGBC24紹介イラスト（イラスト：すこやかむいむいさん）](https://github.com/user-attachments/assets/3a695b34-dc03-4c14-abc1-19e77574737c)
   
-## GBC24 Build Guide
+## GBC24 Document
   
 [ビルドガイド（日本語）](Documents/buildguide_pre-soldered.md)<br>
 [接続・設定マニュアル（日本語）](Documents/GBC24_接続・設定マニュアル.md)<br>
