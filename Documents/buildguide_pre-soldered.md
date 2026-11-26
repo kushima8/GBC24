@@ -26,7 +26,8 @@
  
 - 対応OS：Windows／macOS／iPadOS（iPadはUSB Type-C端子を搭載した機種）
 - 接続：USB Type-C（有線）。専用ドライバーのインストールは不要です。
-- 動作確認済みのソフト：PCではAdobe PhotoshopとCLIP STUDIO PAINT、iPadではProcreateとCLIP STUDIO PAINT
+- 動作確認済みのソフト：WindowsではAdobe PhotoshopとCLIP STUDIO PAINT、iPadではProcreateとCLIP STUDIO PAINT  
+  macOSでも動作する見込みですが、確認はしていません。
  
 次の点にご注意ください。
  
