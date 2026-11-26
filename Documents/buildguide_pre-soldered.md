@@ -24,6 +24,12 @@
  
 ### 動作環境について
  
+- 対応OS：Windows／macOS／iPadOS（iPadはUSB Type-C端子を搭載した機種）
+- 接続：USB Type-C（有線）。専用ドライバーのインストールは不要です。
+- 動作確認済みのソフト：PCではAdobe PhotoshopとCLIP STUDIO PAINT、iPadではProcreateとCLIP STUDIO PAINT
+ 
+次の点にご注意ください。
+ 
 - キーの割り当ての変更とファームウェアの更新には、ChromeまたはEdgeが使えるPC（Windows／Mac）が必要です。  
   iPadやスマートフォンだけでは変更できません。
 - ジョイスティックをゲームパッドとして使えるのは、Windowsのみです（DirectInput方式。XInputには対応していません）。
